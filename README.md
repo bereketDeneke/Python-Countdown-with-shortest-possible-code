@@ -6,10 +6,10 @@
 ⚠️Privacy and Policy:You are not allowed to modify or re-use the code without the author's permission</br>
 
 
-<h1>How To use</h1>
-<u>Requirments:</u>
- => Install python https://www.python.org/downloads/
- => You need to install flask in your machine "pip install flask"
- => Run the app "python app.py"
- => Finally the countdown timer will be displayed on your local machine browser by typing http://localhost/
+<h1>How To use</h1></br>
+<u>Requirments:</u></br>
+ => Install python https://www.python.org/downloads/</br>
+ => You need to install flask in your machine "pip install flask"</br>
+ => Run the app "python app.py"</br>
+ => Finally the countdown timer will be displayed on your local machine browser by typing http://localhost/</br>
  
