@@ -6,8 +6,7 @@
 ⚠️Privacy and Policy:You are not allowed to modify or re-use the code without the author's permission</br>
 
 
-<h1>How To use</h1></br>
-<u>Requirments:</u></br>
+<h1>How To use</h1>
  => Install python https://www.python.org/downloads/</br>
  => You need to install flask in your machine "pip install flask"</br>
  => Run the app "python app.py"</br>
